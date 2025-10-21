@@ -10,7 +10,7 @@ Também é usada como uma forma de despedida casual. A sua pronúncia é aproxim
 ## Dzień dobry (Djin dób-ri)
 ```
 É uma saudação polonesa que significa "Bom dia" ou "Boa tarde".
- É a forma mais comum e formal de cumprimento durante o dia na Polônia.
+É a forma mais comum e formal de cumprimento durante o dia na Polônia.
 ```
 ## Do widzenia (Doh vee-DZEN-ya)
 ```
@@ -19,4 +19,21 @@ Também é usada como uma forma de despedida casual. A sua pronúncia é aproxim
 ## Dobry wieczór (Dó-bri Vee Étchor)
 ```
 É uma saudação frmal utilizada para cumprimentar pessoas a partir do final da tarde até o início da noite.
+```
+## Dobranoc
+```
+A palavra polonesa "dobranoc" significa "boa noite", mas é usada especificamente na hora de se despedir quando se vai dormir.
+```
+## Dziękuję (djin-KOO-ye)
+```
+A palavra polonesa "Dziękuję" significa "Obrigado(a)". É usada tanto por homens quanto por mulheres.
+```
+## Dzięki (Djin-ki)
+```
+A palavra polonesa "dzięki" significa "valeu" ou "obrigado(a)", sendo a forma informal de expressar gratidão.
+```
+## Proszę (PRO-sheh)
+```
+A palavra polonesa "Proszę" é muito versátil e pode ter diferentes significados, dependendo do contexto.
+Ela pode ser traduzida como "de nada", "por favor", "aqui está" e "entre".
 ```
